@@ -1,0 +1,10 @@
+{
+    "name": "Capstone NFT",
+    "symbol": "CAP",
+    "description": "A test for NFT example.",
+    "seller_fee_basis_points": 5,
+    "external_url": "",
+    "edition": "",
+    "background_color": "000000",
+    "image": "https://i.natgeofe.com/n/4f5aaece-3300-41a4-b2a8-ed2708a0a27c/domestic-dog_thumb_square.jpg"
+}
